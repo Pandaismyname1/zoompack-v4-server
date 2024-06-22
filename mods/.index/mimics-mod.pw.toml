@@ -1,0 +1,13 @@
+filename = 'mimic_mod-1.0.0.jar'
+name = 'Chest Mimic'
+side = 'both'
+
+[download]
+hash = 'ecd3011347940bdbab029aa1b9700e73df401dbb'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5115875
+project-id = 976030

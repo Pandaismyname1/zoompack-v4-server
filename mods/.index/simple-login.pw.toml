@@ -1,0 +1,13 @@
+filename = 'SimpleLogin-1.20.1-1.0.2-all.jar'
+name = 'Simple Login'
+side = 'both'
+
+[download]
+hash = '2fcdb0d2221b32fc4f64dea2957ec0dd7ace3174'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4745380
+project-id = 312664

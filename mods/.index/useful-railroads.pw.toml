@@ -1,0 +1,13 @@
+filename = 'useful_railroads-forge-1.20.1-1.5.6.56.jar'
+name = 'Useful Railroads'
+side = 'both'
+
+[download]
+hash = '08677f819a2ccd9d851acf33036a832f1d21b66d'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4774187
+project-id = 306475

@@ -1,0 +1,13 @@
+filename = 'ChippedExpress-universal.jar'
+name = 'Chipped Express'
+side = 'both'
+
+[download]
+hash = '79df9c02123a885b9390cd13061718eabbceba81'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5126390
+project-id = 938916

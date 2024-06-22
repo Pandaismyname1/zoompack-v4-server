@@ -1,0 +1,13 @@
+filename = 'CroptopiaDelight-1.20.1_1.2.2-forge.jar'
+name = 'Croptopia Delight'
+side = 'both'
+
+[download]
+hash = 'ef8af9a2317c0023d5234054e517f9c4333297de'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4908017
+project-id = 932098

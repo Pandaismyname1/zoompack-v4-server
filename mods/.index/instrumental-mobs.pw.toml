@@ -1,0 +1,13 @@
+filename = 'InstrumentalMobs-forge-1.20.1-2.2.0.jar'
+name = 'Instrumental Mobs'
+side = 'both'
+
+[download]
+hash = 'c6eb4ed7d10f2de97d198f9c76ff52585ad06d95'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5032231
+project-id = 299602

@@ -1,0 +1,13 @@
+filename = 'totw_modded-forge-1.20.1-1.0.4.jar'
+name = 'Towers of the Wild Modded'
+side = 'server'
+
+[download]
+hash = '0774d0722ede1ad6f3e229d6de1cd02dc02ce836ced6c5e7d41c06b93ea22af74aa2d7934e9fa0dc2e98573f8308d884ec8e96d87509d82876f87c8912b608c9'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/54eqfZSC/versions/19eiXkY0/totw_modded-forge-1.20.1-1.0.4.jar'
+
+[update.modrinth]
+mod-id = '54eqfZSC'
+version = '19eiXkY0'

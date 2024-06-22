@@ -1,0 +1,13 @@
+filename = 'Kobolds-2.10.7.jar'
+name = 'Kobolds'
+side = 'both'
+
+[download]
+hash = '8c0c08849d4b0803aac2b238fa53e9292c9ce8bdcf1b4d8fdb06bff5d1727ea238d6937542d48e8f81f20064d61528efa532b165f0c3a9767b4179322e5336d2'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ufaxN0Ay/versions/lUzdvktt/Kobolds-2.10.7.jar'
+
+[update.modrinth]
+mod-id = 'ufaxN0Ay'
+version = 'lUzdvktt'

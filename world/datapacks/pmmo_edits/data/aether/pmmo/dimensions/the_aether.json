@@ -1,0 +1,201 @@
+{
+    "vein_blacklist": [],
+    "travel_req": {},
+    "mob_modifier": {
+        "aether:aerbunny": {
+            "minecraft:generic.max_health": 60,
+            "minecraft:generic.attack_damage": 10,
+            "minecraft:generic.armor": 10
+        },
+        "aether:aechor_plant": {
+            "minecraft:generic.max_health": 60,
+            "minecraft:generic.attack_damage": 10,
+            "minecraft:generic.armor": 10
+        },
+        "aether:aerwhale": {
+            "minecraft:generic.max_health": 60,
+            "minecraft:generic.attack_damage": 10,
+            "minecraft:generic.armor": 10
+        },
+        "aether:blue_swet": {
+            "minecraft:generic.max_health": 60,
+            "minecraft:generic.attack_damage": 10,
+            "minecraft:generic.armor": 10
+        },
+        "aether:cloud_crystal": {
+            "minecraft:generic.max_health": 60,
+            "minecraft:generic.attack_damage": 10,
+            "minecraft:generic.armor": 10
+        },
+        "aether:cloud_minion": {
+            "minecraft:generic.max_health": 60,
+            "minecraft:generic.attack_damage": 10,
+            "minecraft:generic.armor": 10
+        },
+        "aether:cockatrice": {
+            "minecraft:generic.max_health": 60,
+            "minecraft:generic.attack_damage": 10,
+            "minecraft:generic.armor": 10
+        },
+        "aether:cold_parachute": {
+            "minecraft:generic.max_health": 60,
+            "minecraft:generic.attack_damage": 10,
+            "minecraft:generic.armor": 10
+        },
+        "aether:enchanted_dart": {
+            "minecraft:generic.max_health": 60,
+            "minecraft:generic.attack_damage": 10,
+            "minecraft:generic.armor": 10
+        },
+        "aether:evil_whirlwind": {
+            "minecraft:generic.max_health": 60,
+            "minecraft:generic.attack_damage": 10,
+            "minecraft:generic.armor": 10
+        },
+        "aether:fire_crystal": {
+            "minecraft:generic.max_health": 60,
+            "minecraft:generic.attack_damage": 10,
+            "minecraft:generic.armor": 10
+        },
+        "aether:fire_minion": {
+            "minecraft:generic.max_health": 60,
+            "minecraft:generic.attack_damage": 10,
+            "minecraft:generic.armor": 10
+        },
+        "aether:floating_block": {
+            "minecraft:generic.max_health": 60,
+            "minecraft:generic.attack_damage": 10,
+            "minecraft:generic.armor": 10
+        },
+        "aether:flying_cow": {
+            "minecraft:generic.max_health": 60,
+            "minecraft:generic.attack_damage": 10,
+            "minecraft:generic.armor": 10
+        },
+        "aether:golden_dart": {
+            "minecraft:generic.max_health": 60,
+            "minecraft:generic.attack_damage": 10,
+            "minecraft:generic.armor": 10
+        },
+        "aether:golden_parachute": {
+            "minecraft:generic.max_health": 60,
+            "minecraft:generic.attack_damage": 10,
+            "minecraft:generic.armor": 10
+        },
+        "aether:golden_swet": {
+            "minecraft:generic.max_health": 60,
+            "minecraft:generic.attack_damage": 10,
+            "minecraft:generic.armor": 10
+        },
+        "aether:hammer_projectile": {
+            "minecraft:generic.max_health": 60,
+            "minecraft:generic.attack_damage": 10,
+            "minecraft:generic.armor": 10
+        },
+        "aether:ice_crystal": {
+            "minecraft:generic.max_health": 60,
+            "minecraft:generic.attack_damage": 10,
+            "minecraft:generic.armor": 10
+        },
+        "aether:lightning_knife": {
+            "minecraft:generic.max_health": 60,
+            "minecraft:generic.attack_damage": 10,
+            "minecraft:generic.armor": 10
+        },
+        "aether:mimic": {
+            "minecraft:generic.max_health": 60,
+            "minecraft:generic.attack_damage": 10,
+            "minecraft:generic.armor": 10
+        },
+        "aether:moa": {
+            "minecraft:generic.max_health": 60,
+            "minecraft:generic.attack_damage": 10,
+            "minecraft:generic.armor": 10
+        },
+        "aether:phyg": {
+            "minecraft:generic.max_health": 60,
+            "minecraft:generic.attack_damage": 10,
+            "minecraft:generic.armor": 10
+        },
+        "aether:poison_dart": {
+            "minecraft:generic.max_health": 60,
+            "minecraft:generic.attack_damage": 10,
+            "minecraft:generic.armor": 10
+        },
+        "aether:poison_needle": {
+            "minecraft:generic.max_health": 60,
+            "minecraft:generic.attack_damage": 10,
+            "minecraft:generic.armor": 10
+        },
+        "aether:sentry": {
+            "minecraft:generic.max_health": 60,
+            "minecraft:generic.attack_damage": 10,
+            "minecraft:generic.armor": 10
+        },
+        "aether:sheepuff": {
+            "minecraft:generic.max_health": 60,
+            "minecraft:generic.attack_damage": 10,
+            "minecraft:generic.armor": 10
+        },
+        "aether:skyroot_boat": {
+            "minecraft:generic.max_health": 60,
+            "minecraft:generic.attack_damage": 10,
+            "minecraft:generic.armor": 10
+        },
+        "aether:skyroot_chest_boat": {
+            "minecraft:generic.max_health": 60,
+            "minecraft:generic.attack_damage": 10,
+            "minecraft:generic.armor": 10
+        },
+        "aether:slider": {
+            "minecraft:generic.max_health": 1000,
+            "minecraft:generic.attack_damage": 10,
+            "minecraft:generic.armor": 10
+        },
+        "aether:sun_spirit": {
+            "minecraft:generic.max_health": 2000,
+            "minecraft:generic.attack_damage": 10,
+            "minecraft:generic.armor": 10
+        },
+        "aether:thunder_crystal": {
+            "minecraft:generic.max_health": 60,
+            "minecraft:generic.attack_damage": 10,
+            "minecraft:generic.armor": 10
+        },
+        "aether:tnt_present": {
+            "minecraft:generic.max_health": 60,
+            "minecraft:generic.attack_damage": 10,
+            "minecraft:generic.armor": 10
+        },
+        "aether:valkyrie": {
+            "minecraft:generic.max_health": 160,
+            "minecraft:generic.attack_damage": 10,
+            "minecraft:generic.armor": 10
+        },
+        "aether:valkyrie_queen": {
+            "minecraft:generic.max_health": 1500,
+            "minecraft:generic.attack_damage": 15,
+            "minecraft:generic.armor": 10
+        },
+        "aether:whirlwind": {
+            "minecraft:generic.max_health": 60,
+            "minecraft:generic.attack_damage": 10,
+            "minecraft:generic.armor": 10
+        },
+        "aether:zephyr": {
+            "minecraft:generic.max_health": 60,
+            "minecraft:generic.attack_damage": 10,
+            "minecraft:generic.armor": 10
+        },
+        "aether:zephyr_snowball": {
+            "minecraft:generic.max_health": 60,
+            "minecraft:generic.attack_damage": 10,
+            "minecraft:generic.armor": 10
+        }
+    },
+    "override": true,
+    "isTagFor": [],
+    "bonus": {
+        "DIMENSION": {}
+    }
+}

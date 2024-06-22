@@ -1,0 +1,13 @@
+filename = 'Shut Up GL Error-forge-1.20.1-1.0.0.jar'
+name = 'Shut Up GL Error'
+side = 'client'
+
+[download]
+hash = '7f48b19254154ae475d85aafa242b69e9fc173d697b5cbc189201a784875a4422c45381a74399451a525191c31a069b048c6ee7ed176c737e899df7ecc50487b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/houIxdGF/versions/Gso8AhoY/Shut Up GL Error-forge-1.20.1-1.0.0.jar'
+
+[update.modrinth]
+mod-id = 'houIxdGF'
+version = 'Gso8AhoY'

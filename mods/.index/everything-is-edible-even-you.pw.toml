@@ -1,0 +1,13 @@
+filename = '(1.20) EiE 1.2.4 (1.20.1[47.2.0]).jar'
+name = 'Everything is edible, even you!'
+side = 'both'
+
+[download]
+hash = '07defdaabaa95e490cb9a6258c555cd94e4bf1fa'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5005327
+project-id = 639476

@@ -1,0 +1,13 @@
+filename = 'utilitarian-1.20.1-0.5.0.jar'
+name = 'Utilitarian'
+side = 'both'
+
+[download]
+hash = '6fe7d632ef3f56f9c962bc01591280f20e451693'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5067989
+project-id = 929559

@@ -1,0 +1,13 @@
+filename = 'jmi-forge-1.20.1-0.14-47.jar'
+name = 'JourneyMap Integration'
+side = 'client'
+
+[download]
+hash = 'd5e0cd40ef6a63b3ea93cf2628fc5ef5d16011c28d30b95891ff03abad5dfc14cac0232172284c70f10057139b17d98af17b4b9fe4204c992dd95b021dbeede5'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/M1ZKbfkJ/versions/dkEb56nS/jmi-forge-1.20.1-0.14-47.jar'
+
+[update.modrinth]
+mod-id = 'M1ZKbfkJ'
+version = 'dkEb56nS'

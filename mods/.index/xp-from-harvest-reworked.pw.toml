@@ -1,0 +1,13 @@
+filename = 'XP From Harvest Reworked-1.20.x-1.2.4.jar'
+name = 'XP From Harvest Reworked'
+side = 'both'
+
+[download]
+hash = 'f091f5463ed6cee37c18a2d9264c7a7c8e8c763d'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4985543
+project-id = 888441

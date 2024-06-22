@@ -1,0 +1,13 @@
+filename = 'polylib-forge-2000.0.3-build.132.jar'
+name = 'PolyLib'
+side = 'both'
+
+[download]
+hash = '4cd21c94ee3e54830ce36d81128956d3c7b972a0'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5199137
+project-id = 576589

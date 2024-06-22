@@ -1,0 +1,13 @@
+filename = 'Compressium-3.0.2-build.12+mc1.20.jar'
+name = 'Compressium'
+side = 'both'
+
+[download]
+hash = '921ea7b44b455ce13f378822f3bf4dd3634ef445'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4584753
+project-id = 342929

@@ -1,0 +1,13 @@
+filename = 'supplementaries-1.20-2.8.7.jar'
+name = 'Supplementaries'
+side = 'both'
+
+[download]
+hash = 'b63f8e3fc65a1b5ae50adc52722851b352d760571dcaccd0255c3933f9b4b4834ab4419413b2da5daa28748b885df1520f31aeb4bcaf2306309e512014b3522a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/fFEIiSDQ/versions/DVi3johx/supplementaries-1.20-2.8.7.jar'
+
+[update.modrinth]
+mod-id = 'fFEIiSDQ'
+version = 'DVi3johx'

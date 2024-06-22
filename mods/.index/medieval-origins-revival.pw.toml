@@ -1,0 +1,13 @@
+filename = 'medievalorigins-6.2.5+1.20.1-forge.jar'
+name = 'Medieval Origins Revival [Forge/Neo/Fabric]'
+side = 'both'
+
+[download]
+hash = 'b0af77b5847ebc9a177d92b46c0aef10cbabdc05'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5162861
+project-id = 897171

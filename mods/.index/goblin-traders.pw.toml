@@ -1,0 +1,13 @@
+filename = 'goblintraders-forge-1.20.1-1.9.3.jar'
+name = 'Goblin Traders'
+side = 'both'
+
+[download]
+hash = '341b9ec065568812c217ad7f38b7acc1b0313d9a'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4802505
+project-id = 363703

@@ -1,0 +1,13 @@
+filename = 'romaniacraft-1.0.0.jar'
+name = 'Romania Mod'
+side = 'both'
+
+[download]
+hash = '706573686847ba7f309bfab598095f177f59663481cb6cebe9d65eea28b9d4d33758185a136b72ce809635aedb07dc23cdab76abe16fc473776511b6afc5c181'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/dVbk5oMm/versions/aOYuLECh/romaniacraft-1.0.0.jar'
+
+[update.modrinth]
+mod-id = 'dVbk5oMm'
+version = 'aOYuLECh'

@@ -1,0 +1,13 @@
+filename = 'ApothicCombat-1.20.1-1.0.0.jar'
+name = 'Apothic Combat'
+side = 'both'
+
+[download]
+hash = '22c209250820a4f2c86986ad3c77b55c89ac99a7'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5183151
+project-id = 986982

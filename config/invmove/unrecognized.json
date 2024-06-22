@@ -1,0 +1,16 @@
+{
+  "allowMovement": {
+    "net.minecraft.client.gui.screens.ReceivingLevelScreen": true,
+    "harmonised.pmmo.client.gui.PlayerStatsScreen": true,
+    "com.aetherteam.aether.client.gui.screen.inventory.AccessoriesScreen": true,
+    "com.aetherteam.aether.client.gui.screen.perks.MoaSkinsScreen": true,
+    "top.theillusivec4.curios.client.gui.CuriosScreen": true,
+    "com.github.alexthe666.alexsmobs.client.gui.GUIAnimalDictionary": true,
+    "vazkii.patchouli.client.book.gui.GuiBookLanding": true,
+    "org.anti_ad.mc.ipnext.gui.GUIDEEditorScreen": true,
+    "harmonised.pmmo.client.gui.StatsScreen": true,
+    "net.minecraft.client.gui.screens.ConfirmLinkScreen": true,
+    "net.minecraft.client.gui.screens.PauseScreen": true
+  },
+  "hideBackground": {}
+}

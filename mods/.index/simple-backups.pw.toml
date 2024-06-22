@@ -1,0 +1,13 @@
+filename = 'SimpleBackups-1.20.1-3.1.4.jar'
+name = 'Simple Backups'
+side = 'server'
+
+[download]
+hash = 'ee3dc7d0a08dcd23e941f66237404cda7147709375be5bc5c489de2321dfaefb5a6be96c241972e529511feb86dc030715b05a4a8a18793585748d15cdacef24'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/fzSKSXVK/versions/KEPO6Y5V/SimpleBackups-1.20.1-3.1.4.jar'
+
+[update.modrinth]
+mod-id = 'fzSKSXVK'
+version = 'KEPO6Y5V'

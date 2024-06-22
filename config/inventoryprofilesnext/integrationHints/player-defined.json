@@ -1,0 +1,10 @@
+{
+    "net.minecraft.client.gui.screens.inventory.InventoryScreen": {
+        "buttonHints": {
+            "SORT": {
+                "horizontalOffset": -15,
+                "bottom": -5
+            }
+        }
+    }
+}
