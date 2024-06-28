@@ -132,7 +132,7 @@
 				endurance = 1
 
 			[Auto_Values.Xp_Awards.Entities."ENTITY Default Xp Award"]
-				charisma = 1
+				charisma = 0
 
 			[Auto_Values.Xp_Awards.Entities."RIDING Default Xp Award"]
 				taming = 1
