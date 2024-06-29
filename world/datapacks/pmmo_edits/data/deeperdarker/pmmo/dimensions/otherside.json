@@ -1,0 +1,51 @@
+{
+  "vein_blacklist": [],
+  "travel_req": {
+    "combat": 80
+  },
+  "mob_modifier": {
+    "deeperdarker:boat": {
+      "minecraft:generic.max_health": 100000,
+      "minecraft:generic.attack_damage": 50000,
+      "minecraft:generic.armor": 20
+    },
+    "deeperdarker:chest_boat": {
+      "minecraft:generic.max_health": 100000,
+      "minecraft:generic.attack_damage": 50000,
+      "minecraft:generic.armor": 20
+    },
+    "deeperdarker:sculk_centipede": {
+      "minecraft:generic.max_health": 100000,
+      "minecraft:generic.attack_damage": 50000,
+      "minecraft:generic.armor": 20
+    },
+    "deeperdarker:sculk_leech": {
+      "minecraft:generic.max_health": 100000,
+      "minecraft:generic.attack_damage": 50000,
+      "minecraft:generic.armor": 20
+    },
+    "deeperdarker:sculk_snapper": {
+      "minecraft:generic.max_health": 100000,
+      "minecraft:generic.attack_damage": 50000,
+      "minecraft:generic.armor": 20
+    },
+    "deeperdarker:shattered": {
+      "minecraft:generic.max_health": 100000,
+      "minecraft:generic.attack_damage": 50000,
+      "minecraft:generic.armor": 20
+    },
+    "deeperdarker:shriek_worm": {
+      "minecraft:generic.max_health": 100000,
+      "minecraft:generic.attack_damage": 50000,
+      "minecraft:generic.armor": 20
+    },
+    "deeperdarker:stalker": {
+      "minecraft:generic.max_health": 100000,
+      "minecraft:generic.attack_damage": 50000,
+      "minecraft:generic.armor": 20
+    }
+  },
+  "override": false,
+  "isTagFor": [],
+  "bonus": {}
+}
