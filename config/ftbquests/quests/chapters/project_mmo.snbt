@@ -4,7 +4,7 @@
 	filename: "project_mmo"
 	group: ""
 	icon: {
-		Count: 1b
+		Count: 1
 		id: "deeperdarker:warden_sword"
 		tag: {
 			Damage: 0

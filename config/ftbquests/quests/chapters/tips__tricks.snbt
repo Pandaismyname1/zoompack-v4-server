@@ -11,7 +11,7 @@
 		{
 			description: ["In here you will find a ton of tips for your playthrough. Go through them one by one to see what this modpack has to offer and how to get unstuck from sticky situations."]
 			icon: {
-				Count: 1b
+				Count: 1
 				id: "deeperdarker:warden_helmet"
 				tag: {
 					Damage: 0
@@ -32,9 +32,7 @@
 			description: [
 				"When joining the world for the first time, you might have noticed you had to select an origin and a class. This brings certain advantages and disadvantages. We reccomend starting as a human with any profession, so you can get acustomed to the modpack."
 				""
-				"Don't worry, &l you can change both your origin and class afterwards&r. "
-				""
-				"When reaching level 30 and/or level 80 &oagility&r a screen will pop up allowing you to respec, and you get a 10 minute invulenrability so you have enough time to choose and get out of sticky situations."
+				"Don't worry, &l you can change both your origin and class &lONCE&r afterwards&r."
 			]
 			icon: "origins:orb_of_origin"
 			id: "04312F393D9DFFA8"
@@ -57,7 +55,7 @@
 				"You will see the skills you've aready started gaining experience, as well as your progress until the next level. More information is available in the Project MMO chapter."
 			]
 			icon: {
-				Count: 1b
+				Count: 1
 				id: "deeperdarker:warden_sword"
 				tag: {
 					Damage: 0
@@ -90,6 +88,88 @@
 			}]
 			x: 4.5d
 			y: 0.0d
+		}
+		{
+			description: [
+				"As this modpack is relatively new, and people are learning the modpack, we've thought maybe you feel like you've chosen an origin and got stuck. You are free to change your origin \\& class &l&nONCE&r."
+				""
+				"Claim the reward above while in a &lsafe space&r to bring up the Origin selection menu."
+				""
+				"Note: You will only change your race."
+				""
+				"&lFREE TIP&r: As you can only change once, we reccomend joining the server with a few dummy accounts and try out all the races of interest, before commiting to your final race."
+			]
+			id: "252191073DE8B0E3"
+			rewards: [{
+				auto: "disabled"
+				command: "/origin gui @s origins:origin"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				icon: "origins:orb_of_origin"
+				id: "2D053FB8F1F42A60"
+				ignore_reward_blocking: true
+				silent: true
+				team_reward: false
+				title: "Choose a new origin"
+				type: "command"
+			}]
+			subtitle: "You want change, I get it"
+			tasks: [{
+				id: "4CEE89BB2CDD26DB"
+				requiredLevel: 10
+				skill: "agility"
+				title: "Agility: 10"
+				type: "pmmo:skill"
+			}]
+			title: "Origin Respec"
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			description: [
+				"As this modpack is relatively new, and people are learning the modpack, we've thought maybe you feel like you've chosen an origin and got stuck. You are free to change your origin \\& class &l&nONCE&r."
+				""
+				"Claim the reward above while in a &lsafe space&r to bring up the Class selection menu."
+				""
+				"Note: You will only change your class."
+				""
+				"&lFREE TIP&r: As you can only change once, we reccomend joining the server with a few dummy accounts and try out all the races of interest, before commiting to your final race."
+			]
+			id: "7F4826BD86C0575C"
+			rewards: [{
+				auto: "disabled"
+				command: "/origin gui @s origins-classes:class"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				icon: "origins:orb_of_origin"
+				id: "3B706D19F074F4F2"
+				ignore_reward_blocking: true
+				silent: true
+				team_reward: false
+				title: "Change your class"
+				type: "command"
+			}]
+			subtitle: "Nu a mers faza pe Spania"
+			tasks: [{
+				id: "1C0E5FB54146E6BF"
+				requiredLevel: 40
+				skill: "agility"
+				type: "pmmo:skill"
+			}]
+			title: "Class Respec"
+			x: 1.5d
+			y: 1.5d
+		}
+		{
+			id: "1230AF3A415E15BB"
+			subtitle: "CBT is OFFICIALLY allowed"
+			tasks: [{
+				id: "645680E16CB8560D"
+				title: "Rules \\& Stuff"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -1.5d
 		}
 	]
 	title: "Tips \\& Tricks"
