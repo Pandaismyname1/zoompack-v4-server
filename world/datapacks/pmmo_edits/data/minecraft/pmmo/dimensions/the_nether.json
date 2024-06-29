@@ -1,0 +1,629 @@
+{
+    "vein_blacklist": [],
+    "travel_req": {},
+    "mob_modifier": {
+        "minecraft:allay": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:area_effect_cloud": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:armor_stand": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:arrow": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:axolotl": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:bat": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:bee": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:blaze": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:block_display": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:boat": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:camel": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:cat": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:cave_spider": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:chest_boat": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:chest_minecart": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:chicken": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:cod": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:command_block_minecart": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:cow": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:creeper": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:dolphin": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:donkey": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:dragon_fireball": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:drowned": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:egg": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:elder_guardian": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:enderman": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:endermite": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:ender_dragon": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:ender_pearl": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:end_crystal": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:evoker": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:evoker_fangs": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:experience_bottle": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:experience_orb": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:eye_of_ender": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:falling_block": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:fireball": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:firework_rocket": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:fishing_bobber": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:fox": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:frog": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:furnace_minecart": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:ghast": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:giant": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:glow_item_frame": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:glow_squid": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:goat": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:guardian": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:hoglin": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:hopper_minecart": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:horse": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:husk": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:illusioner": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:interaction": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:iron_golem": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:item": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:item_display": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:item_frame": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:leash_knot": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:lightning_bolt": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:llama": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:llama_spit": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:magma_cube": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:marker": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:minecart": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:mooshroom": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:mule": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:ocelot": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:painting": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:panda": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:parrot": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:phantom": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:pig": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:piglin": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:piglin_brute": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:pillager": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:player": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:polar_bear": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:potion": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:pufferfish": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:rabbit": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:ravager": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:salmon": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:sheep": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:shulker": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:shulker_bullet": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:silverfish": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:skeleton": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:skeleton_horse": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:slime": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:small_fireball": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:sniffer": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:snowball": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:snow_golem": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:spawner_minecart": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:spectral_arrow": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:spider": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:squid": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:stray": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:strider": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:tadpole": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:text_display": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:tnt": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:tnt_minecart": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:trader_llama": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:trident": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:tropical_fish": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:turtle": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:vex": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:villager": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:vindicator": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:wandering_trader": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:warden": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:witch": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:wither": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:wither_skeleton": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:wither_skull": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:wolf": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:zoglin": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:zombie": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:zombie_horse": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:zombie_villager": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        },
+        "minecraft:zombified_piglin": {
+            "minecraft:generic.max_health": 25000,
+            "minecraft:generic.attack_damage": 12,
+            "minecraft:generic.armor": 12
+        }
+    },
+    "override": false,
+    "isTagFor": [],
+    "bonus": {}
+}

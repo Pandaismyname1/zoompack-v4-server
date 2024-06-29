@@ -171,6 +171,17 @@
 			x: 0.0d
 			y: -1.5d
 		}
+		{
+			description: ["https://www.reddit.com/r/allthemods/comments/15nf0ue/atm_8_apotheosis_gems/"]
+			id: "1CB3C571D2F10B8D"
+			tasks: [{
+				id: "1EE8765E9F3BE685"
+				title: "Apotheosis Gems Guide"
+				type: "checkmark"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
 	]
 	title: "Tips \\& Tricks"
 }
