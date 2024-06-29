@@ -1,0 +1,146 @@
+{
+    "vein_blacklist": [],
+    "travel_req": {
+        "combat": 60
+    },
+    "mob_modifier": {
+        "undergarden:blisterbomb": {
+            "minecraft:generic.max_health": 50000,
+            "minecraft:generic.attack_damage": 25000,
+            "minecraft:generic.armor": 15
+        },
+        "undergarden:boat": {
+            "minecraft:generic.max_health": 50000,
+            "minecraft:generic.attack_damage": 25000,
+            "minecraft:generic.armor": 15
+        },
+        "undergarden:boomgourd": {
+            "minecraft:generic.max_health": 50000,
+            "minecraft:generic.attack_damage": 25000,
+            "minecraft:generic.armor": 15
+        },
+        "undergarden:brute": {
+            "minecraft:generic.max_health": 50000,
+            "minecraft:generic.attack_damage": 25000,
+            "minecraft:generic.armor": 15
+        },
+        "undergarden:chest_boat": {
+            "minecraft:generic.max_health": 50000,
+            "minecraft:generic.attack_damage": 25000,
+            "minecraft:generic.armor": 15
+        },
+        "undergarden:depthrock_pebble": {
+            "minecraft:generic.max_health": 50000,
+            "minecraft:generic.attack_damage": 25000,
+            "minecraft:generic.armor": 15
+        },
+        "undergarden:dweller": {
+            "minecraft:generic.max_health": 50000,
+            "minecraft:generic.attack_damage": 25000,
+            "minecraft:generic.armor": 15
+        },
+        "undergarden:forgotten": {
+            "minecraft:generic.max_health": 50000,
+            "minecraft:generic.attack_damage": 25000,
+            "minecraft:generic.armor": 15
+        },
+        "undergarden:forgotten_guardian": {
+            "minecraft:generic.max_health": 50000,
+            "minecraft:generic.attack_damage": 25000,
+            "minecraft:generic.armor": 15
+        },
+        "undergarden:gloomper": {
+            "minecraft:generic.max_health": 50000,
+            "minecraft:generic.attack_damage": 25000,
+            "minecraft:generic.armor": 15
+        },
+        "undergarden:goo_ball": {
+            "minecraft:generic.max_health": 50000,
+            "minecraft:generic.attack_damage": 25000,
+            "minecraft:generic.armor": 15
+        },
+        "undergarden:gronglet": {
+            "minecraft:generic.max_health": 50000,
+            "minecraft:generic.attack_damage": 25000,
+            "minecraft:generic.armor": 15
+        },
+        "undergarden:gwib": {
+            "minecraft:generic.max_health": 50000,
+            "minecraft:generic.attack_damage": 25000,
+            "minecraft:generic.armor": 15
+        },
+        "undergarden:gwibling": {
+            "minecraft:generic.max_health": 50000,
+            "minecraft:generic.attack_damage": 25000,
+            "minecraft:generic.armor": 15
+        },
+        "undergarden:minion": {
+            "minecraft:generic.max_health": 50000,
+            "minecraft:generic.attack_damage": 25000,
+            "minecraft:generic.armor": 15
+        },
+        "undergarden:minion_projectile": {
+            "minecraft:generic.max_health": 50000,
+            "minecraft:generic.attack_damage": 25000,
+            "minecraft:generic.armor": 15
+        },
+        "undergarden:mog": {
+            "minecraft:generic.max_health": 50000,
+            "minecraft:generic.attack_damage": 25000,
+            "minecraft:generic.armor": 15
+        },
+        "undergarden:muncher": {
+            "minecraft:generic.max_health": 50000,
+            "minecraft:generic.attack_damage": 25000,
+            "minecraft:generic.armor": 15
+        },
+        "undergarden:nargoyle": {
+            "minecraft:generic.max_health": 50000,
+            "minecraft:generic.attack_damage": 25000,
+            "minecraft:generic.armor": 15
+        },
+        "undergarden:rotbeast": {
+            "minecraft:generic.max_health": 50000,
+            "minecraft:generic.attack_damage": 25000,
+            "minecraft:generic.armor": 15
+        },
+        "undergarden:rotling": {
+            "minecraft:generic.max_health": 50000,
+            "minecraft:generic.attack_damage": 25000,
+            "minecraft:generic.armor": 15
+        },
+        "undergarden:rotten_blisterberry": {
+            "minecraft:generic.max_health": 50000,
+            "minecraft:generic.attack_damage": 25000,
+            "minecraft:generic.armor": 15
+        },
+        "undergarden:rotwalker": {
+            "minecraft:generic.max_health": 50000,
+            "minecraft:generic.attack_damage": 25000,
+            "minecraft:generic.armor": 15
+        },
+        "undergarden:scintling": {
+            "minecraft:generic.max_health": 50000,
+            "minecraft:generic.attack_damage": 25000,
+            "minecraft:generic.armor": 15
+        },
+        "undergarden:smog_mog": {
+            "minecraft:generic.max_health": 50000,
+            "minecraft:generic.attack_damage": 25000,
+            "minecraft:generic.armor": 15
+        },
+        "undergarden:sploogie": {
+            "minecraft:generic.max_health": 50000,
+            "minecraft:generic.attack_damage": 25000,
+            "minecraft:generic.armor": 15
+        },
+        "undergarden:stoneborn": {
+            "minecraft:generic.max_health": 50000,
+            "minecraft:generic.attack_damage": 25000,
+            "minecraft:generic.armor": 15
+        }
+    },
+    "override": false,
+    "isTagFor": [],
+    "bonus": {}
+}

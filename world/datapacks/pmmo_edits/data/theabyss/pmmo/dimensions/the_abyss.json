@@ -1,0 +1,276 @@
+{
+    "vein_blacklist": [],
+    "travel_req": {
+        "combat": 90
+    },
+    "mob_modifier": {
+        "theabyss:abylager": {
+            "minecraft:generic.max_health": 150000,
+            "minecraft:generic.attack_damage": 75000,
+            "minecraft:generic.armor": 50000
+        },
+        "theabyss:abyssal_lion": {
+            "minecraft:generic.max_health": 150000,
+            "minecraft:generic.attack_damage": 75000,
+            "minecraft:generic.armor": 50000
+        },
+        "theabyss:abyssaur": {
+            "minecraft:generic.max_health": 150000,
+            "minecraft:generic.attack_damage": 75000,
+            "minecraft:generic.armor": 50000
+        },
+        "theabyss:brain_walker": {
+            "minecraft:generic.max_health": 150000,
+            "minecraft:generic.attack_damage": 75000,
+            "minecraft:generic.armor": 50000
+        },
+        "theabyss:crystal_golem": {
+            "minecraft:generic.max_health": 150000,
+            "minecraft:generic.attack_damage": 75000,
+            "minecraft:generic.armor": 50000
+        },
+        "theabyss:deer": {
+            "minecraft:generic.max_health": 150000,
+            "minecraft:generic.attack_damage": 75000,
+            "minecraft:generic.armor": 50000
+        },
+        "theabyss:elder": {
+            "minecraft:generic.max_health": 150000,
+            "minecraft:generic.attack_damage": 75000,
+            "minecraft:generic.armor": 50000
+        },
+        "theabyss:end_spider": {
+            "minecraft:generic.max_health": 150000,
+            "minecraft:generic.attack_damage": 75000,
+            "minecraft:generic.armor": 50000
+        },
+        "theabyss:frost_spider": {
+            "minecraft:generic.max_health": 150000,
+            "minecraft:generic.attack_damage": 75000,
+            "minecraft:generic.armor": 50000
+        },
+        "theabyss:glow_pug": {
+            "minecraft:generic.max_health": 150000,
+            "minecraft:generic.attack_damage": 75000,
+            "minecraft:generic.armor": 50000
+        },
+        "theabyss:guard": {
+            "minecraft:generic.max_health": 150000,
+            "minecraft:generic.attack_damage": 75000,
+            "minecraft:generic.armor": 50000
+        },
+        "theabyss:haunted_skeleton": {
+            "minecraft:generic.max_health": 150000,
+            "minecraft:generic.attack_damage": 75000,
+            "minecraft:generic.armor": 50000
+        },
+        "theabyss:hummingbird": {
+            "minecraft:generic.max_health": 150000,
+            "minecraft:generic.attack_damage": 75000,
+            "minecraft:generic.armor": 50000
+        },
+        "theabyss:hylia_fox": {
+            "minecraft:generic.max_health": 150000,
+            "minecraft:generic.attack_damage": 75000,
+            "minecraft:generic.armor": 50000
+        },
+        "theabyss:ice_knight": {
+            "minecraft:generic.max_health": 150000,
+            "minecraft:generic.attack_damage": 75000,
+            "minecraft:generic.armor": 50000
+        },
+        "theabyss:ice_skeleton": {
+            "minecraft:generic.max_health": 150000,
+            "minecraft:generic.attack_damage": 75000,
+            "minecraft:generic.armor": 50000
+        },
+        "theabyss:infceted_cow": {
+            "minecraft:generic.max_health": 150000,
+            "minecraft:generic.attack_damage": 75000,
+            "minecraft:generic.armor": 50000
+        },
+        "theabyss:infected_creeper": {
+            "minecraft:generic.max_health": 150000,
+            "minecraft:generic.attack_damage": 75000,
+            "minecraft:generic.armor": 50000
+        },
+        "theabyss:infected_dragonfly": {
+            "minecraft:generic.max_health": 150000,
+            "minecraft:generic.attack_damage": 75000,
+            "minecraft:generic.armor": 50000
+        },
+        "theabyss:infected_phantom": {
+            "minecraft:generic.max_health": 150000,
+            "minecraft:generic.attack_damage": 75000,
+            "minecraft:generic.armor": 50000
+        },
+        "theabyss:infected_spider": {
+            "minecraft:generic.max_health": 150000,
+            "minecraft:generic.attack_damage": 75000,
+            "minecraft:generic.armor": 50000
+        },
+        "theabyss:infected_wolf": {
+            "minecraft:generic.max_health": 150000,
+            "minecraft:generic.attack_damage": 75000,
+            "minecraft:generic.armor": 50000
+        },
+        "theabyss:infected_zombie": {
+            "minecraft:generic.max_health": 150000,
+            "minecraft:generic.attack_damage": 75000,
+            "minecraft:generic.armor": 50000
+        },
+        "theabyss:jelly_fish": {
+            "minecraft:generic.max_health": 150000,
+            "minecraft:generic.attack_damage": 75000,
+            "minecraft:generic.armor": 50000
+        },
+        "theabyss:jungle_lurker": {
+            "minecraft:generic.max_health": 150000,
+            "minecraft:generic.attack_damage": 75000,
+            "minecraft:generic.armor": 50000
+        },
+        "theabyss:laro_fish": {
+            "minecraft:generic.max_health": 150000,
+            "minecraft:generic.attack_damage": 75000,
+            "minecraft:generic.armor": 50000
+        },
+        "theabyss:lizard": {
+            "minecraft:generic.max_health": 150000,
+            "minecraft:generic.attack_damage": 75000,
+            "minecraft:generic.armor": 50000
+        },
+        "theabyss:lokus": {
+            "minecraft:generic.max_health": 150000,
+            "minecraft:generic.attack_damage": 75000,
+            "minecraft:generic.armor": 50000
+        },
+        "theabyss:luro_fish": {
+            "minecraft:generic.max_health": 150000,
+            "minecraft:generic.attack_damage": 75000,
+            "minecraft:generic.armor": 50000
+        },
+        "theabyss:magician": {
+            "minecraft:generic.max_health": 150000,
+            "minecraft:generic.attack_damage": 75000,
+            "minecraft:generic.armor": 50000
+        },
+        "theabyss:mud_zombie": {
+            "minecraft:generic.max_health": 150000,
+            "minecraft:generic.attack_damage": 75000,
+            "minecraft:generic.armor": 50000
+        },
+        "theabyss:nightblade_boss": {
+            "minecraft:generic.max_health": 150000,
+            "minecraft:generic.attack_damage": 75000,
+            "minecraft:generic.armor": 50000
+        },
+        "theabyss:night_blade_boss_clone": {
+            "minecraft:generic.max_health": 150000,
+            "minecraft:generic.attack_damage": 75000,
+            "minecraft:generic.armor": 50000
+        },
+        "theabyss:player_body": {
+            "minecraft:generic.max_health": 150000,
+            "minecraft:generic.attack_damage": 75000,
+            "minecraft:generic.armor": 50000
+        },
+        "theabyss:powered_wolf": {
+            "minecraft:generic.max_health": 150000,
+            "minecraft:generic.attack_damage": 75000,
+            "minecraft:generic.armor": 50000
+        },
+        "theabyss:projectile_artifact_of_phantoms_projectile": {
+            "minecraft:generic.max_health": 150000,
+            "minecraft:generic.attack_damage": 75000,
+            "minecraft:generic.armor": 50000
+        },
+        "theabyss:projectile_mutated_enderpearl_projectile": {
+            "minecraft:generic.max_health": 150000,
+            "minecraft:generic.attack_damage": 75000,
+            "minecraft:generic.armor": 50000
+        },
+        "theabyss:projectile_phantom_attack_projectile": {
+            "minecraft:generic.max_health": 150000,
+            "minecraft:generic.attack_damage": 75000,
+            "minecraft:generic.armor": 50000
+        },
+        "theabyss:projectile_ring_of_black_strike_attack_projectile": {
+            "minecraft:generic.max_health": 150000,
+            "minecraft:generic.attack_damage": 75000,
+            "minecraft:generic.armor": 50000
+        },
+        "theabyss:projectile_ring_of_fire_strike_attack_projectile": {
+            "minecraft:generic.max_health": 150000,
+            "minecraft:generic.attack_damage": 75000,
+            "minecraft:generic.armor": 50000
+        },
+        "theabyss:projectile_shuriken_explosive_projectile": {
+            "minecraft:generic.max_health": 150000,
+            "minecraft:generic.attack_damage": 75000,
+            "minecraft:generic.armor": 50000
+        },
+        "theabyss:projectile_shuriken_projectile": {
+            "minecraft:generic.max_health": 150000,
+            "minecraft:generic.attack_damage": 75000,
+            "minecraft:generic.armor": 50000
+        },
+        "theabyss:ralu_fish": {
+            "minecraft:generic.max_health": 150000,
+            "minecraft:generic.attack_damage": 75000,
+            "minecraft:generic.armor": 50000
+        },
+        "theabyss:raptor": {
+            "minecraft:generic.max_health": 150000,
+            "minecraft:generic.attack_damage": 75000,
+            "minecraft:generic.armor": 50000
+        },
+        "theabyss:scorpion": {
+            "minecraft:generic.max_health": 150000,
+            "minecraft:generic.attack_damage": 75000,
+            "minecraft:generic.armor": 50000
+        },
+        "theabyss:seeker": {
+            "minecraft:generic.max_health": 150000,
+            "minecraft:generic.attack_damage": 75000,
+            "minecraft:generic.armor": 50000
+        },
+        "theabyss:shattered_zombie": {
+            "minecraft:generic.max_health": 150000,
+            "minecraft:generic.attack_damage": 75000,
+            "minecraft:generic.armor": 50000
+        },
+        "theabyss:slime_spider": {
+            "minecraft:generic.max_health": 150000,
+            "minecraft:generic.attack_damage": 75000,
+            "minecraft:generic.armor": 50000
+        },
+        "theabyss:soul_guard": {
+            "minecraft:generic.max_health": 150000,
+            "minecraft:generic.attack_damage": 75000,
+            "minecraft:generic.armor": 50000
+        },
+        "theabyss:summoned_hollow_seeker": {
+            "minecraft:generic.max_health": 150000,
+            "minecraft:generic.attack_damage": 75000,
+            "minecraft:generic.armor": 50000
+        },
+        "theabyss:summoned_seeker": {
+            "minecraft:generic.max_health": 150000,
+            "minecraft:generic.attack_damage": 75000,
+            "minecraft:generic.armor": 50000
+        },
+        "theabyss:the_roka": {
+            "minecraft:generic.max_health": 150000,
+            "minecraft:generic.attack_damage": 75000,
+            "minecraft:generic.armor": 50000
+        },
+        "theabyss:versa_whale": {
+            "minecraft:generic.max_health": 150000,
+            "minecraft:generic.attack_damage": 75000,
+            "minecraft:generic.armor": 50000
+        }
+    },
+    "override": false,
+    "isTagFor": [],
+    "bonus": {}
+}

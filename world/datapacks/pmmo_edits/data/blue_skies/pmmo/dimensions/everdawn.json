@@ -1,240 +1,251 @@
 {
-  "mob_modifier": {
-    "blue_skies:alchemist": {
-      "minecraft:generic.max_health": 500,
-      "minecraft:generic.attack_damage": 5,
-      "minecraft:generic.armor": 6
+    "vein_blacklist": [],
+    "travel_req": {
+        "combat": 15
     },
-    "blue_skies:arachnarch": {
-      "minecraft:generic.max_health": 800,
-      "minecraft:generic.attack_damage": 5,
-      "minecraft:generic.armor": 6
+    "mob_modifier": {
+        "blue_skies:alchemist": {
+            "minecraft:generic.max_health": 14000,
+            "minecraft:generic.attack_damage": 4,
+            "minecraft:generic.armor": 4
+        },
+        "blue_skies:arachnarch": {
+            "minecraft:generic.max_health": 14000,
+            "minecraft:generic.attack_damage": 4,
+            "minecraft:generic.armor": 4
+        },
+        "blue_skies:armored_frost_spirit": {
+            "minecraft:generic.max_health": 14000,
+            "minecraft:generic.attack_damage": 4,
+            "minecraft:generic.armor": 4
+        },
+        "blue_skies:artificial_golem": {
+            "minecraft:generic.max_health": 14000,
+            "minecraft:generic.attack_damage": 4,
+            "minecraft:generic.armor": 4
+        },
+        "blue_skies:azulfo": {
+            "minecraft:generic.max_health": 14000,
+            "minecraft:generic.attack_damage": 4,
+            "minecraft:generic.armor": 4
+        },
+        "blue_skies:boss_item": {
+            "minecraft:generic.max_health": 14000,
+            "minecraft:generic.attack_damage": 4,
+            "minecraft:generic.armor": 4
+        },
+        "blue_skies:charscale_moki": {
+            "minecraft:generic.max_health": 14000,
+            "minecraft:generic.attack_damage": 4,
+            "minecraft:generic.armor": 4
+        },
+        "blue_skies:cosmic_fox": {
+            "minecraft:generic.max_health": 14000,
+            "minecraft:generic.attack_damage": 4,
+            "minecraft:generic.armor": 4
+        },
+        "blue_skies:crogre": {
+            "minecraft:generic.max_health": 14000,
+            "minecraft:generic.attack_damage": 4,
+            "minecraft:generic.armor": 4
+        },
+        "blue_skies:crynocerous": {
+            "minecraft:generic.max_health": 14000,
+            "minecraft:generic.attack_damage": 4,
+            "minecraft:generic.armor": 4
+        },
+        "blue_skies:crystal_camel": {
+            "minecraft:generic.max_health": 14000,
+            "minecraft:generic.attack_damage": 4,
+            "minecraft:generic.armor": 4
+        },
+        "blue_skies:decaying_spike": {
+            "minecraft:generic.max_health": 14000,
+            "minecraft:generic.attack_damage": 4,
+            "minecraft:generic.armor": 4
+        },
+        "blue_skies:diophyde_prowler": {
+            "minecraft:generic.max_health": 14000,
+            "minecraft:generic.attack_damage": 4,
+            "minecraft:generic.armor": 4
+        },
+        "blue_skies:emberback": {
+            "minecraft:generic.max_health": 14000,
+            "minecraft:generic.attack_damage": 4,
+            "minecraft:generic.armor": 4
+        },
+        "blue_skies:ent_leaf": {
+            "minecraft:generic.max_health": 14000,
+            "minecraft:generic.attack_damage": 4,
+            "minecraft:generic.armor": 4
+        },
+        "blue_skies:ent_root": {
+            "minecraft:generic.max_health": 14000,
+            "minecraft:generic.attack_damage": 4,
+            "minecraft:generic.armor": 4
+        },
+        "blue_skies:ent_wall": {
+            "minecraft:generic.max_health": 14000,
+            "minecraft:generic.attack_damage": 4,
+            "minecraft:generic.armor": 4
+        },
+        "blue_skies:firefly": {
+            "minecraft:generic.max_health": 14000,
+            "minecraft:generic.attack_damage": 4,
+            "minecraft:generic.armor": 4
+        },
+        "blue_skies:fluctuant_sphere": {
+            "minecraft:generic.max_health": 14000,
+            "minecraft:generic.attack_damage": 4,
+            "minecraft:generic.armor": 4
+        },
+        "blue_skies:frost_spirit": {
+            "minecraft:generic.max_health": 14000,
+            "minecraft:generic.attack_damage": 4,
+            "minecraft:generic.armor": 4
+        },
+        "blue_skies:gatekeeper": {
+            "minecraft:generic.max_health": 14000,
+            "minecraft:generic.attack_damage": 4,
+            "minecraft:generic.armor": 4
+        },
+        "blue_skies:grittle_flatfish": {
+            "minecraft:generic.max_health": 14000,
+            "minecraft:generic.attack_damage": 4,
+            "minecraft:generic.armor": 4
+        },
+        "blue_skies:horizofin_tunid": {
+            "minecraft:generic.max_health": 14000,
+            "minecraft:generic.attack_damage": 4,
+            "minecraft:generic.armor": 4
+        },
+        "blue_skies:infested_swarmer": {
+            "minecraft:generic.max_health": 14000,
+            "minecraft:generic.attack_damage": 4,
+            "minecraft:generic.armor": 4
+        },
+        "blue_skies:jelly_drifter": {
+            "minecraft:generic.max_health": 14000,
+            "minecraft:generic.attack_damage": 4,
+            "minecraft:generic.armor": 4
+        },
+        "blue_skies:municipal_monkfish": {
+            "minecraft:generic.max_health": 14000,
+            "minecraft:generic.attack_damage": 4,
+            "minecraft:generic.armor": 4
+        },
+        "blue_skies:nested_spider": {
+            "minecraft:generic.max_health": 14000,
+            "minecraft:generic.attack_damage": 4,
+            "minecraft:generic.armor": 4
+        },
+        "blue_skies:nyctofly": {
+            "minecraft:generic.max_health": 14000,
+            "minecraft:generic.attack_damage": 4,
+            "minecraft:generic.armor": 4
+        },
+        "blue_skies:polargeist": {
+            "minecraft:generic.max_health": 14000,
+            "minecraft:generic.attack_damage": 4,
+            "minecraft:generic.armor": 4
+        },
+        "blue_skies:reindeer": {
+            "minecraft:generic.max_health": 14000,
+            "minecraft:generic.attack_damage": 4,
+            "minecraft:generic.armor": 4
+        },
+        "blue_skies:seclam": {
+            "minecraft:generic.max_health": 14000,
+            "minecraft:generic.attack_damage": 4,
+            "minecraft:generic.armor": 4
+        },
+        "blue_skies:seed_bomb": {
+            "minecraft:generic.max_health": 14000,
+            "minecraft:generic.attack_damage": 4,
+            "minecraft:generic.armor": 4
+        },
+        "blue_skies:shade_monitor": {
+            "minecraft:generic.max_health": 14000,
+            "minecraft:generic.attack_damage": 4,
+            "minecraft:generic.armor": 4
+        },
+        "blue_skies:shrumpty": {
+            "minecraft:generic.max_health": 14000,
+            "minecraft:generic.attack_damage": 4,
+            "minecraft:generic.armor": 4
+        },
+        "blue_skies:sliv": {
+            "minecraft:generic.max_health": 14000,
+            "minecraft:generic.attack_damage": 4,
+            "minecraft:generic.armor": 4
+        },
+        "blue_skies:snow_owl": {
+            "minecraft:generic.max_health": 14000,
+            "minecraft:generic.attack_damage": 4,
+            "minecraft:generic.armor": 4
+        },
+        "blue_skies:spear": {
+            "minecraft:generic.max_health": 14000,
+            "minecraft:generic.attack_damage": 4,
+            "minecraft:generic.armor": 4
+        },
+        "blue_skies:spewter": {
+            "minecraft:generic.max_health": 14000,
+            "minecraft:generic.attack_damage": 4,
+            "minecraft:generic.armor": 4
+        },
+        "blue_skies:stardust_ram": {
+            "minecraft:generic.max_health": 14000,
+            "minecraft:generic.attack_damage": 4,
+            "minecraft:generic.armor": 4
+        },
+        "blue_skies:starlit_crusher": {
+            "minecraft:generic.max_health": 14000,
+            "minecraft:generic.attack_damage": 4,
+            "minecraft:generic.armor": 4
+        },
+        "blue_skies:stonelet": {
+            "minecraft:generic.max_health": 14000,
+            "minecraft:generic.attack_damage": 4,
+            "minecraft:generic.armor": 4
+        },
+        "blue_skies:strange_lightning": {
+            "minecraft:generic.max_health": 14000,
+            "minecraft:generic.attack_damage": 4,
+            "minecraft:generic.armor": 4
+        },
+        "blue_skies:summoner": {
+            "minecraft:generic.max_health": 14000,
+            "minecraft:generic.attack_damage": 4,
+            "minecraft:generic.armor": 4
+        },
+        "blue_skies:supporter_pet": {
+            "minecraft:generic.max_health": 14000,
+            "minecraft:generic.attack_damage": 4,
+            "minecraft:generic.armor": 4
+        },
+        "blue_skies:venom_bomb": {
+            "minecraft:generic.max_health": 14000,
+            "minecraft:generic.attack_damage": 4,
+            "minecraft:generic.armor": 4
+        },
+        "blue_skies:venom_spider": {
+            "minecraft:generic.max_health": 14000,
+            "minecraft:generic.attack_damage": 4,
+            "minecraft:generic.armor": 4
+        },
+        "blue_skies:venom_spit": {
+            "minecraft:generic.max_health": 14000,
+            "minecraft:generic.attack_damage": 4,
+            "minecraft:generic.armor": 4
+        },
+        "blue_skies:whistleshell_crab": {
+            "minecraft:generic.max_health": 14000,
+            "minecraft:generic.attack_damage": 4,
+            "minecraft:generic.armor": 4
+        }
     },
-    "blue_skies:armored_frost_spirit": {
-      "minecraft:generic.max_health": 20,
-      "minecraft:generic.attack_damage": 5,
-      "minecraft:generic.armor": 4
-    },
-    "blue_skies:artificial_golem": {
-      "minecraft:generic.max_health": 20,
-      "minecraft:generic.attack_damage": 5,
-      "minecraft:generic.armor": 4
-    },
-    "blue_skies:azulfo": {
-      "minecraft:generic.max_health": 20,
-      "minecraft:generic.attack_damage": 5,
-      "minecraft:generic.armor": 5
-    },
-    "blue_skies:charscale_moki": {
-      "minecraft:generic.max_health": 20,
-      "minecraft:generic.attack_damage": 5,
-      "minecraft:generic.armor": 4
-    },
-    "blue_skies:cosmic_fox": {
-      "minecraft:generic.max_health": 20,
-      "minecraft:generic.attack_damage": 5,
-      "minecraft:generic.armor": 4
-    },
-    "blue_skies:crogre": {
-      "minecraft:generic.max_health": 20,
-      "minecraft:generic.attack_damage": 5,
-      "minecraft:generic.armor": 4
-    },
-    "blue_skies:crynocerous": {
-      "minecraft:generic.max_health": 20,
-      "minecraft:generic.attack_damage": 5,
-      "minecraft:generic.armor": 4
-    },
-    "blue_skies:crystal_camel": {
-      "minecraft:generic.max_health": 20,
-      "minecraft:generic.attack_damage": 5,
-      "minecraft:generic.armor": 4
-    },
-    "blue_skies:decaying_spike": {
-      "minecraft:generic.max_health": 20,
-      "minecraft:generic.attack_damage": 5,
-      "minecraft:generic.armor": 4
-    },
-    "blue_skies:diophyde_prowler": {
-      "minecraft:generic.max_health": 20,
-      "minecraft:generic.attack_damage": 5,
-      "minecraft:generic.armor": 4
-    },
-    "blue_skies:emberback": {
-      "minecraft:generic.max_health": 20,
-      "minecraft:generic.attack_damage": 5,
-      "minecraft:generic.armor": 4
-    },
-    "blue_skies:ent_leaf": {
-      "minecraft:generic.max_health": 20,
-      "minecraft:generic.attack_damage": 5,
-      "minecraft:generic.armor": 4
-    },
-    "blue_skies:ent_root": {
-      "minecraft:generic.max_health": 20,
-      "minecraft:generic.attack_damage": 5,
-      "minecraft:generic.armor": 4
-    },
-    "blue_skies:ent_wall": {
-      "minecraft:generic.max_health": 20,
-      "minecraft:generic.attack_damage": 5,
-      "minecraft:generic.armor": 4
-    },
-    "blue_skies:firefly": {
-      "minecraft:generic.max_health": 20,
-      "minecraft:generic.attack_damage": 5,
-      "minecraft:generic.armor": 4
-    },
-    "blue_skies:fluctuant_sphere": {
-      "minecraft:generic.max_health": 20,
-      "minecraft:generic.attack_damage": 5,
-      "minecraft:generic.armor": 4
-    },
-    "blue_skies:frost_spirit": {
-      "minecraft:generic.max_health": 20,
-      "minecraft:generic.attack_damage": 5,
-      "minecraft:generic.armor": 4
-    },
-    "blue_skies:gatekeeper": {
-      "minecraft:generic.max_health": 20,
-      "minecraft:generic.attack_damage": 5,
-      "minecraft:generic.armor": 4
-    },
-    "blue_skies:grittle_flatfish": {
-      "minecraft:generic.max_health": 20,
-      "minecraft:generic.attack_damage": 5,
-      "minecraft:generic.armor": 4
-    },
-    "blue_skies:horizofin_tunid": {
-      "minecraft:generic.max_health": 20,
-      "minecraft:generic.attack_damage": 5,
-      "minecraft:generic.armor": 4
-    },
-    "blue_skies:infested_swarmer": {
-      "minecraft:generic.max_health": 20,
-      "minecraft:generic.attack_damage": 5,
-      "minecraft:generic.armor": 4
-    },
-    "blue_skies:jelly_drifter": {
-      "minecraft:generic.max_health": 20,
-      "minecraft:generic.attack_damage": 5,
-      "minecraft:generic.armor": 4
-    },
-    "blue_skies:municipal_monkfish": {
-      "minecraft:generic.max_health": 20,
-      "minecraft:generic.attack_damage": 5,
-      "minecraft:generic.armor": 4
-    },
-    "blue_skies:nested_spider": {
-      "minecraft:generic.max_health": 20,
-      "minecraft:generic.attack_damage": 5,
-      "minecraft:generic.armor": 4
-    },
-    "blue_skies:nyctofly": {
-      "minecraft:generic.max_health": 20,
-      "minecraft:generic.attack_damage": 5,
-      "minecraft:generic.armor": 4
-    },
-    "blue_skies:polargeist": {
-      "minecraft:generic.max_health": 20,
-      "minecraft:generic.attack_damage": 5,
-      "minecraft:generic.armor": 4
-    },
-    "blue_skies:reindeer": {
-      "minecraft:generic.max_health": 20,
-      "minecraft:generic.attack_damage": 5,
-      "minecraft:generic.armor": 4
-    },
-    "blue_skies:seclam": {
-      "minecraft:generic.max_health": 20,
-      "minecraft:generic.attack_damage": 5,
-      "minecraft:generic.armor": 4
-    },
-    "blue_skies:seed_bomb": {
-      "minecraft:generic.max_health": 20,
-      "minecraft:generic.attack_damage": 5,
-      "minecraft:generic.armor": 4
-    },
-    "blue_skies:shade_monitor": {
-      "minecraft:generic.max_health": 20,
-      "minecraft:generic.attack_damage": 5,
-      "minecraft:generic.armor": 4
-    },
-    "blue_skies:shrumpty": {
-      "minecraft:generic.max_health": 20,
-      "minecraft:generic.attack_damage": 5,
-      "minecraft:generic.armor": 4
-    },
-    "blue_skies:sliv": {
-      "minecraft:generic.max_health": 20,
-      "minecraft:generic.attack_damage": 5,
-      "minecraft:generic.armor": 4
-    },
-    "blue_skies:snow_owl": {
-      "minecraft:generic.max_health": 20,
-      "minecraft:generic.attack_damage": 5,
-      "minecraft:generic.armor": 4
-    },
-    "blue_skies:spear": {
-      "minecraft:generic.max_health": 20,
-      "minecraft:generic.attack_damage": 5,
-      "minecraft:generic.armor": 4
-    },
-    "blue_skies:spewter": {
-      "minecraft:generic.max_health": 20,
-      "minecraft:generic.attack_damage": 5,
-      "minecraft:generic.armor": 4
-    },
-    "blue_skies:stardust_ram": {
-      "minecraft:generic.max_health": 50,
-      "minecraft:generic.attack_damage": 7,
-      "minecraft:generic.armor": 6
-    },
-    "blue_skies:starlit_crusher": {
-      "minecraft:generic.max_health": 800,
-      "minecraft:generic.attack_damage": 5,
-      "minecraft:generic.armor": 6
-    },
-    "blue_skies:stonelet": {
-      "minecraft:generic.max_health": 20,
-      "minecraft:generic.attack_damage": 5,
-      "minecraft:generic.armor": 4
-    },
-    "blue_skies:strange_lightning": {
-      "minecraft:generic.max_health": 20,
-      "minecraft:generic.attack_damage": 5,
-      "minecraft:generic.armor": 4
-    },
-    "blue_skies:summoner": {
-      "minecraft:generic.max_health": 500,
-      "minecraft:generic.attack_damage": 5,
-      "minecraft:generic.armor": 6
-    },
-    "blue_skies:supporter_pet": {
-      "minecraft:generic.max_health": 20,
-      "minecraft:generic.attack_damage": 5,
-      "minecraft:generic.armor": 4
-    },
-    "blue_skies:venom_bomb": {
-      "minecraft:generic.max_health": 20,
-      "minecraft:generic.attack_damage": 5,
-      "minecraft:generic.armor": 4
-    },
-    "blue_skies:venom_spider": {
-      "minecraft:generic.max_health": 20,
-      "minecraft:generic.attack_damage": 5,
-      "minecraft:generic.armor": 4
-    },
-    "blue_skies:venom_spit": {
-      "minecraft:generic.max_health": 20,
-      "minecraft:generic.attack_damage": 5,
-      "minecraft:generic.armor": 4
-    },
-    "blue_skies:whistleshell_crab": {
-      "minecraft:generic.max_health": 20,
-      "minecraft:generic.attack_damage": 5,
-      "minecraft:generic.armor": 4
-    }
-  },
-  "override": false
+    "override": false,
+    "isTagFor": [],
+    "bonus": {}
 }
