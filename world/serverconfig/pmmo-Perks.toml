@@ -53,34 +53,6 @@
 			command = "scoreboard players add @s pmmo_smithing 1"
 
 		[[Perks.For_Event.SKILL_UP]]
-			perk = "pmmo:command"
-			skill = "agility"
-			command = "origin gui @s"
-			min_level = 30
-			max_level = 30
-
-		[[Perks.For_Event.SKILL_UP]]
-			perk = "pmmo:command"
-			skill = "agility"
-			command = "effect give @s minecraft:resistance 600 9"
-			min_level = 30
-			max_level = 30
-
-		[[Perks.For_Event.SKILL_UP]]
-			perk = "pmmo:command"
-			skill = "agility"
-			command = "origin gui @s"
-			min_level = 80
-			max_level = 80
-
-		[[Perks.For_Event.SKILL_UP]]
-			perk = "pmmo:command"
-			skill = "agility"
-			command = "effect give @s minecraft:resistance 600 9"
-			min_level = 80
-			max_level = 80
-
-		[[Perks.For_Event.SKILL_UP]]
 			perk = "pmmo:fireworks"
 			skill = "building"
 
